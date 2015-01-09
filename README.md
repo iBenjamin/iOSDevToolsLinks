@@ -25,3 +25,15 @@ Use this useful utility tool to check what image resources are not being used in
 备注:
 
 这个软件非常贵，要99.99美刀，但是在国人强大的crack能力下...嘿嘿你懂的。
+
+##Colorsnapper
+
+[App地址](http://www.colorsnapper.com/)
+
+简介：
+
+使用这个软件可以方便快捷的提取颜色并转换成HEX、RGB、HSL、CSS和NSColor、UIColor。
+
+备注：
+
+太方便了有木有，再也不用一个个的输入RGB值了。

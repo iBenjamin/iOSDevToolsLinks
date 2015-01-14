@@ -37,3 +37,16 @@ Use this useful utility tool to check what image resources are not being used in
 备注：
 
 太方便了有木有，再也不用一个个的输入RGB值了。
+
+##ImageOptim
+
+[App地址](https://imageoptim.com/)
+
+简介：
+ImageOptim是一款基于Mac的图像“瘦身”软件，内置有6种压缩算法，通过删除图片部分无用的EXIF等信息来减小PNG、JPEG和GIF图片的大小。ImageOptim合并了OptiPNG、PNGCrush、AdvanceComp、PNGOUT、Jpegoptim+Jpegtran和Gifsicle等几个工具，旨在为设计师提供最好的优化效果。在最新发布的1.4.4版本中，ImageOptim改进了文件在文件列表中的拖拽、复制、粘贴功能。
+
+主要特性：
+
+1. 可同时批量处理图像
+2. 可以对图片进行二次压缩
+3. 通过无损压缩，在压缩图片的同时，不会降低图片的质量

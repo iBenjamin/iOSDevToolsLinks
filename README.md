@@ -50,3 +50,13 @@ ImageOptim是一款基于Mac的图像“瘦身”软件，内置有6种压缩算
 1. 可同时批量处理图像
 2. 可以对图片进行二次压缩
 3. 通过无损压缩，在压缩图片的同时，不会降低图片的质量
+
+##Flycut
+
+[App地址](https://itunes.apple.com/cn/app/flycut-clipboard-manager/id442160987?mt=12)
+[GitHub](https://github.com/TermiT/flycut)
+
+简介：
+开源项目，保存你的剪切历史。
+
+

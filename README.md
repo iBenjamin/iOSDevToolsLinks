@@ -53,10 +53,17 @@ ImageOptim是一款基于Mac的图像“瘦身”软件，内置有6种压缩算
 
 ##Flycut
 
-[App地址](https://itunes.apple.com/cn/app/flycut-clipboard-manager/id442160987?mt=12)
+[App地址](https://itunes.apple.com/cn/app/flycut-clipboard-manager/id442160987?mt=12)<br>
 [GitHub](https://github.com/TermiT/flycut)
 
 简介：
 开源项目，保存你的剪切历史。
 
+##AutomaticCoder
+
+[GitHub](https://github.com/zhangxigithub/AutomaticCoder)
+
+简介：
+根据JSON自动生成 Objective-C 代码  , 支持copy<br>
+Automatic generate Objective-C code by JSON string.Support <NSCoding>.
 

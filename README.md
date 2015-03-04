@@ -72,3 +72,9 @@ Automatic generate Objective-C code by JSON string.Support <NSCoding>.
 [App地址](https://itunes.apple.com/us/app/tiny-socket/id619840523?mt=12)
 
 简介:socket调试软件
+
+##SimPholders2
+
+[App地址](http://simpholders.com/)
+
+简介:方便的查看模拟器沙盒文件夹下的文件。
